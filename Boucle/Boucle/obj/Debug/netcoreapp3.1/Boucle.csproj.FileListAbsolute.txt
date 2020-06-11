@@ -1,0 +1,13 @@
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\bin\Debug\netcoreapp3.1\Boucle.exe
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\bin\Debug\netcoreapp3.1\Boucle.deps.json
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\bin\Debug\netcoreapp3.1\Boucle.runtimeconfig.json
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\bin\Debug\netcoreapp3.1\Boucle.runtimeconfig.dev.json
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\bin\Debug\netcoreapp3.1\Boucle.dll
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\bin\Debug\netcoreapp3.1\Boucle.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.csprojAssemblyReference.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.csproj.CoreCompileInputs.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.AssemblyInfoInputs.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.AssemblyInfo.cs
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.dll
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Boucle\exos-boucles-LilFlowtante\Boucle\Boucle\obj\Debug\netcoreapp3.1\Boucle.genruntimeconfig.cache
